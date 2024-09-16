@@ -5,9 +5,6 @@
 int main() {
     float x0, y0, xn, h, yn, k1, k2, k3, k4, k;
     int i, n;
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
     printf("Equation is:(x * x + y * y)\n");
     printf("Enter Initial Condition\n");
     printf("x0 = ");
