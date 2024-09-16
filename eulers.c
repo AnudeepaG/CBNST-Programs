@@ -2,9 +2,6 @@
 #include<math.h>
 #define f(x,y) ((y-x)/(y+x))
 int main(){
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
     float x0, y0, xn, h, yn, slope;
     int i, n;
     printf("Equation is:((y-x)/(y+x))\n");
