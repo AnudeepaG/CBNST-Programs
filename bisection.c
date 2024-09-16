@@ -3,13 +3,10 @@
 #include<math.h>
 #define f(x) x*x*x +3* x - 5
 void main(){
-	printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
-	float x0, x1, x2, f0, f1, f2, e;
+    float x0, x1, x2, f0, f1, f2, e;
     int step = 1;
     printf("Equation is: x*x*x +3* x - 5\n");
-start:
+    start:
 	 printf("\nEnter two initial guesses:\n");
 	 scanf("%f%f", &x0, &x1);
 	 printf("Enter tolerable error:\n");
