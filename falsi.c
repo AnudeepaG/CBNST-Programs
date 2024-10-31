@@ -3,9 +3,6 @@
 //#define f(x) (2 * exp(x) * sin(x) - 3)
 #define f(x) 2*x*x*x-2*x-5
 int main() {
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
     float x0, x1, x2, f0, f1, f2, e;
     int step = 1;
     printf("Equation is: 2 * exp(x) * sin(x) - 3\n");
