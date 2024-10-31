@@ -2,9 +2,6 @@
 #include <math.h>
 #include <stdlib.h>
 int main() {
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
     int i, j, k, n;
     float a[20][20], ratio, x[10], sum = 0.0;
     printf("\nEnter no. of unknowns: ");
