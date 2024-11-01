@@ -3,10 +3,6 @@
 #define f(x) exp(x)/(1+x)
 
 int main() {
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
-    
     float lower, upper, integration = 0.0, h, k;
     int n; 
     printf("Equation is exp(x)/(1+x) \n");
