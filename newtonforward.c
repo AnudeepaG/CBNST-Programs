@@ -1,9 +1,7 @@
 #include<stdio.h>
 #include<math.h>
 int main () {
-    printf ("Name       :\tAnudeepa Giri\n");
-    printf ("Univ.Rollno:\t2018696\n");
-    printf ("Sec        :\t F(14)\n");
+    
     float x[20], y[20][20];
     float h, u1, u, fx, fy, fact;
     int i, j, n, ch = 30;
