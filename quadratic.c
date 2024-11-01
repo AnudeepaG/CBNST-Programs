@@ -1,9 +1,7 @@
 #include <math.h>
 #include <stdio.h>
 int main() {
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
+    
     double a, b, c, d, root1, root2, rp, ip;
     printf("Enter coefficients a, b, and c: ");
     scanf("%lf %lf %lf", &a, &b, &c);
