@@ -1,10 +1,6 @@
 #include <stdio.h>
-
 int main() {
-    printf ("Name       :\tAnudeepa Giri\n");
-    printf ("Univ.Rollno:\t2018696\n");
-    printf ("Sec        :\t F(14)\n");
-    
+
     int ch = 30;
     int n;
     printf("Enter number of terms: ");
