@@ -2,9 +2,7 @@
 #include <math.h>
 #define f(x) 1/(1+x*x)
 int main() {
-    printf ("Name       :\tAnudeepa Giri\n");
-    printf ("Univ.Rollno:\t2018696\n");
-    printf ("Sec        :\t F(14)\n");
+   
     float lower, upper, integration = 0.0, h, k;
     int i, n;
     printf("Enter lower limit : ");
