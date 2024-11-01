@@ -1,18 +1,12 @@
 #include<stdio.h>
 
 int main() {
-    // Printing some information
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
-
     int n;
     printf("Enter no of data: ");
     scanf("%d", &n);
 
     // Arrays to store x and y values
     float x[n], y[n], xp;
-
     // Getting input for x and y values
     printf("Enter value of x and fx respectively \n");
     for(int i = 0; i < n; i++) {
