@@ -4,9 +4,7 @@
 #define f(x) x*x*x-48
 #define g(x) 3*x*x
 int main(){
-    printf("Name       :\tAnudeepa Giri\n");
-    printf("Univ.Rollno:\t2018696\n");
-    printf("Sec        :\t F(14)\n");
+    
     float x0, x1, f0, f1, g0, e;
     int step = 1;
     printf("\nEnter initial guesses:\n");
